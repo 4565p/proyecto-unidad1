@@ -1,0 +1,7 @@
+INFORMATICA
+Muchos usuarios de computadoras dependen de aplicaciones programadas profesio-nalmente (hojas de cálculo, programas de edición de imágenes, navegadores web, etc.) como herramientas para la resolución de sus problemas. Pero, en ciertas ocasiones, es necesario o deseable escribir un programa en lugar de utilizar uno escrito por otra per-sona.
+• Entender el problema. Definir el problema con claridad es, con frecuencia, el paso más importante, y casi siempre más descuidado, que debe darse para la re-solución de ese problema.
+• Idear un plan para la resolución del problema. ¿Qué recursos, personas, in-formación, computadoras, software y datos tenemos disponibles? ¿Cómo deben ponerse estos recursos en funcionamiento para resolver el problema?
+• Llevar a cabo el plan. Esta fase suele estar solapada con el paso 2, ya que mu-chos esquemas de resolución de problemas suelen desarrollarse sobre la marcha.
+• Evaluar la solución. ¿Se ha resulto correctamente el problema? ¿Es una solu-ción válida para otros problemas?
+Beekman, G. ([Inserta el año de publicación]). INTRODUCCION A LA INFORMATICA (6th ed.). Pearson HispanoAmerica Contenido. https://unamex.vitalsource.com/books/9788483222775
